@@ -1,6 +1,6 @@
 <template>
   <div>
-     <p>我们的项目111</p>
+     <p>我们的项目</p>
   </div>
 </template>
 <style  scoped>
